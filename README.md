@@ -1,13 +1,13 @@
 # Analytics-Portfolio
 A collection of the data analytics projects that I have worked on.
 
-**Data Analyst**    
+**Data Analyst | Data Scientist**    
 
 ---
 
 ## 📊 Summary
 
-Experienced data analyst with a strong background in accounting, finance, and economics. Passionate about leveraging data to solve complex problems. Proficient in SQL, Python, and data visualization tools. Currently working as an English Instructor while seeking opportunities in data analytics. 
+Data analyst with a strong background in accounting, finance, and economics. Passionate about leveraging data to solve complex problems. Proficient in SQL, Python, and data visualization tools.
 
 ---
 
@@ -15,19 +15,26 @@ Experienced data analyst with a strong background in accounting, finance, and ec
 
 ### Master of Science in Data Analytics  
 **University:** University of Maryland Global Campus | Graduated: December 2023  
-- GPA: 4.0  
-- Key Skills: MySQL, Jupyter Notebook, Python, Google Colab, Tableau, IBM Watson Analytics, SAS Enterprise Miner, Apache Hadoop, Apache Spark, TensorFlow, Keras.
 
 ### Bachelor of Arts in Economics  
-**University:** University of Maryland  
+**University:** University of Maryland  | Graduated: December 2013  
+
 ---
 
 ## 📈 Projects
 
-### Fantasy Football Draft Kit App
-- Developed an app using a Value-Based Drafting (VBD) system for a fantasy football league.
-- Implemented mock draft AI and historical draft data analysis for strategic player recommendations.
-- Enhanced the drafting experience by tracking team needs and player availability dynamically.
+### Insurance Policy Recommendation
+
+Used predictive analytics to improve customer onboarding at an insurance company. 
+Worked with a dataset of 200,000 entries of historical customer data. 
+Developed three machine learning models in Python to predict a customers choices when creating an insurance policy. 
+Each of the models able to achieved an accuracy of 85-90%.
+
+### Tesla Evaluation
+
+Analyzed Tesla’s 10k Filings from 2012-2021 using Natural Language Processing in Python.
+Successfully identified key moments in the companies history that led to its rise in value.
+
 
 ---
 
