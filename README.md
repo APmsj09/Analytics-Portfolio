@@ -35,6 +35,10 @@ Each of the models able to achieved an accuracy of 85-90%.
 Analyzed Tesla’s 10k Filings from 2012-2021 using Natural Language Processing in Python.
 Successfully identified key moments in the companies history that led to its rise in value.
 
+### Travel Chat Bot
 
+### Baseball Hall of Fame
+
+### Baseball: Batting vs Pitching
 ---
 
